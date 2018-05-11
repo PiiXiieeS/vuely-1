@@ -16,6 +16,7 @@
     "amcharts3": "github:amcharts/amcharts3",
     "chart.js": "^2.7.1",
     "echarts": "^3.8.5",
+    "express": "^4.16.3",
     "jvectormap": "^2.0.4",
     "leaflet": "^1.2.0",
     "mini-toastr": "^0.7.2",
